@@ -3301,6 +3301,9 @@ a {
 .cid-sQF038bcFj .panel-title-edit {
   color: #000000;
 }
+.cid-sQF038bcFj .panel-text {
+  text-align: left;
+}
 .cid-sQF0lh3AzP {
   padding-top: 0rem;
   padding-bottom: 0rem;
@@ -3328,6 +3331,9 @@ a {
 .cid-sQF0lh3AzP .panel-title-edit {
   color: #000000;
 }
+.cid-sQF0lh3AzP .panel-text {
+  text-align: left;
+}
 .cid-sQF3ZHyNIj {
   padding-top: 0rem;
   padding-bottom: 6rem;
@@ -3354,6 +3360,9 @@ a {
 }
 .cid-sQF3ZHyNIj .panel-title-edit {
   color: #000000;
+}
+.cid-sQF3ZHyNIj .panel-text {
+  text-align: left;
 }
 .cid-sQF7jhcCr6 .dropdown-item:before {
   font-family: MobiriseIcons !important;
